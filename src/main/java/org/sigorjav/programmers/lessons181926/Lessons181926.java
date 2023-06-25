@@ -1,4 +1,4 @@
-package org.sigorjav.programmers.lessons181926.lessons181927;
+package org.sigorjav.programmers.lessons181926;
 
 public class Lessons181926 {
     public static void main(String[] args) {
