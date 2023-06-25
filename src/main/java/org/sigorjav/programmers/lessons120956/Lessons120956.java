@@ -1,6 +1,6 @@
 package org.sigorjav.programmers.lessons120956;
 
-public class lessons120956 {
+public class Lessons120956 {
     public static void main(String[] args) {
         String[] babbling = {"ayaye", "uuuma", "ye", "yemawoo", "ayaa"};
 
