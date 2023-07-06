@@ -1,6 +1,5 @@
-package org.sigorjav.programmers.leassons160000;
+package org.sigorjav.programmers.lessons160000;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 

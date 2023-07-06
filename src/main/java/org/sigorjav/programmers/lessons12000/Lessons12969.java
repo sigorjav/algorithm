@@ -1,7 +1,6 @@
-package org.sigorjav.programmers.leassons12000;
+package org.sigorjav.programmers.lessons12000;
 
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class Lessons12969 {
     public static void main(String[] args) {

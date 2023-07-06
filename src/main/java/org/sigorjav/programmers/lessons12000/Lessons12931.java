@@ -1,4 +1,4 @@
-package org.sigorjav.programmers.leassons12000;
+package org.sigorjav.programmers.lessons12000;
 
 public class Lessons12931 {
     public static void main(String[] args) {
